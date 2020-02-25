@@ -1,7 +1,7 @@
 # Arper
  ARP scanner/spoofer tool  
  
-# Instalation  
+# Installation  
 python 2.7  
 apt install scapy  
 pip install getmac  
