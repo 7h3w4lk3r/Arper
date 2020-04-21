@@ -15,8 +15,6 @@ pip install getmac
 # Usage  
 ./arper.py  
 
-
-# sample image
 ![Image description](https://github.com/7h3w4lk3r/Arper/blob/master/a.png)
 
 
